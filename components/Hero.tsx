@@ -12,8 +12,7 @@ function Hero() {
           className="object-contain"
         />
         <h1 className="sm:text-6xl text-5xl text-white lg:max-w-lg font-bold leading-[120%]">
-          Explore The <span className="red-gradient">Diverse Realms</span> of
-          Anime Magic
+          ดูการ์ตูน <span className="red-gradient">อนิเมะ</span> ออนไลน์
         </h1>
       </div>
       <div className="lg:flex-1 relative w-full h-[50vh] justify-center">
